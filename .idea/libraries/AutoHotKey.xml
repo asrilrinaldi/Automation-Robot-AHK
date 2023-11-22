@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AutoHotKey">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/src/lib/AutoHotKey" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
